@@ -105,7 +105,7 @@ In my first project, I installed the Cloudflare Tunnel via the CLI. This time, I
 
 In the Zero Trust Platform, click on "Networks".
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767562864454/64e125fb-b8d3-4e1f-92b4-d32b21e1fb4a.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767578358422/f5dffaff-2094-4e65-b2cd-fceaff8d0070.jpeg align="center")
 
 Under Networks, go to “Manage Tunnels” and set up a tunnel if you do not already have one. The process is straightforward.
 
